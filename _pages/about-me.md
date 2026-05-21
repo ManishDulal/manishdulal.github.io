@@ -1,33 +1,74 @@
 ---
-title: "About Me"
+title: ""
 permalink: /about-me/
 author_profile: false
 ---
 
-# Hello, I'm Manish Dulal
+I am currently a PhD Scholar at the Centre for Machine Intelligence and Data Science (C-MInDS), Indian Institute of Technology Bombay.
 
-I am a PhD student at the Centre for Machine Intelligence and Data Science (C-MInDS), Indian Institute of Technology Bombay.
-th
-My research lies at the intersection of Machine Learning and Finance, with interests spanning Graph Neural Networks, Financial Machine Learning, Credit Risk Modelling, Climate Risk Analytics, and Data-Driven Decision Systems. My current work focuses on applying statistical and machine learning methods to real-world financial problems, including credit risk prediction, early warning systems, and graph-based approaches for financial networks.
+My academic journey began with Mathematics and later expanded toward Statistics, Finance, and Machine Learning. My research interests lie at the intersection of finance and artificial intelligence, particularly in Graph Neural Networks, Financial Machine Learning, Credit Risk Modelling, and Climate Risk Analytics.
 
+Prior to beginning my doctoral studies, I worked at Tata Consultancy Services and completed an internship at CRISIL involving predictive risk systems for banking applications.
 
+---
 
-### Guides
+## Relevant Coursework
 
-[Prof. M. S. Usha Ananthakumar](https://www.som.iitb.ac.in/prof-ms-usha-ananthakumar/)
+### Spring 2024–25
+- **GC101** — Gender in the Workplace
+- **IE614** — Linear Systems
+- **SC607** — Optimization
+- **SI509** — Time Series Analysis
+- **TA101** — Teaching Assistant Skill Enhancement & Training (TASET)
 
-[Dr. Piyush Pandey](https://www.som.iitb.ac.in/dr-piyush-pandey/)
+### Autumn 2025–26
+- **CS6106** — Statistical Learning Theory
+- **EE6106** — Online Learning and Optimisation
+- **DS899** — Communication Skills
 
-### Research Interests
+### Spring 2025–26
+- **CS725** — Foundations of Machine Learning
+- **EE601** — Statistical Signal Analysis
+- **DSS801** — Seminar
 
-Machine Learning • Graph Neural Networks • Financial Machine Learning • Credit Risk Modelling • Climate Risk Analytics • Sports Analytics
+---
 
-</div>
+## Teaching Assistantships
 
-<div style="flex:1">
+### IIT Bombay
 
-<img src="/images/profile.png" width="300" style="border-radius:50%;">
+**DS-203: Programming for Data Science**  
+Teaching Assistant
 
-</div>
+Responsibilities:
+- Assisted students with programming assignments and coursework
+- Conducted multiple doubt-clearing sessions
+- Evaluated assignments and assessments
+- Supported course administration and student mentoring
 
-</div>
+---
+
+### e-PG Diploma in AI and Data Science, IIT Bombay
+
+**Statistical Foundations of Machine Learning**  
+Teaching Assistant | Aug–Nov 2025
+
+Responsibilities:
+- Conducted multiple doubt-clearing sessions
+- Evaluated assignments and assessments
+- Assisted in preparing examination and assessment materials
+
+---
+
+**Machine Learning for Finance**  
+Head Teaching Assistant
+
+Responsibilities:
+- Coordinated TA activities
+- Assisted in preparing examinations and assessment materials
+- Evaluated assignments and student submissions
+- Conducted multiple doubt-clearing sessions
+- Supported learners with machine learning applications in finance
+
+Program:  
+[e-PG Diploma in AI and Data Science, IIT Bombay](https://www.minds.iitb.ac.in/academic-details/e-pg-diploma-in-ai-and-ds)
