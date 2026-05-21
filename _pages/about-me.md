@@ -23,13 +23,6 @@ Prior to beginning my doctoral studies, I worked at Tata Consultancy Services an
 
 - **SI509** — Time Series Analysis
 
-
-### Autumn 2025–26
-
-- **CS6106** — Statistical Learning Theory
-
-- **EE6106** — Online Learning and Optimisation
-
 ### Spring 2025–26
 
 - **CS725** — Foundations of Machine Learning
@@ -37,6 +30,15 @@ Prior to beginning my doctoral studies, I worked at Tata Consultancy Services an
 - **EE601** — Statistical Signal Analysis
 
   
+
+
+### Autumn 2025–26
+
+- **CS6106** — Statistical Learning Theory
+
+- **EE6106** — Online Learning and Optimisation
+
+
 ---
 
 ## Teaching Assistantships
@@ -54,7 +56,8 @@ Responsibilities:
 
 ---
 
-### e-PG Diploma in AI and Data Science, IIT Bombay
+### [e-PG Diploma in AI and Data Science, IIT Bombay](https://www.minds.iitb.ac.in/academic-details/e-pg-diploma-in-ai-and-ds)
+, IIT Bombay
 
 **Statistical Foundations of Machine Learning**  
 Teaching Assistant | Aug–Nov 2025
@@ -78,8 +81,6 @@ Responsibilities:
 - Supported students with machine learning applications in finance
 - Assisted with course administration and learner interactions
 
-Program:  
-[e-PG Diploma in AI and Data Science, IIT Bombay](https://www.minds.iitb.ac.in/academic-details/e-pg-diploma-in-ai-and-ds)
 
 ---
 
