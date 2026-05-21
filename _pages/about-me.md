@@ -1,14 +1,8 @@
 ---
-permalink: /
+title: "About Me"
+permalink: /about-me/
 author_profile: false
-redirect_from:
-  - /about/
-  - /about.html
 ---
-
-<div style="display:flex;align-items:center;gap:60px;">
-
-<div style="flex:2">
 
 # Hello, I'm Manish Dulal
 
