@@ -39,7 +39,7 @@ Machine Learning • Graph Neural Networks • Credit Risk Modelling • Climate
 </p>
 
 
-## Recent News
+<h3>Recent News</h3>
 
 📢 **December 2025** — Presented a contributed talk at **Statistical Methods in Finance 2025**, Chennai Mathematical Institute, Chennai , India
 
