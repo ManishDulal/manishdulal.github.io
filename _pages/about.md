@@ -38,11 +38,26 @@ Machine Learning • Graph Neural Networks • Credit Risk Modelling • Climate
 
 <h3>Recent News</h3>
 
-📢 **December 2025** — Presented a contributed talk at **Statistical Methods in Finance 2025**, Chennai Mathematical Institute, Chennai , India
+<ul style="line-height:1.8; padding-left:20px;">
 
-🎓 **December 2025** — Attended **ACM India Winter School 2025: AI and Finance**, IIIT Hyderabad, Hyderabad, India
+<li>
+📢 <strong>December 2025</strong> — Presented a contributed talk at 
+<strong>Statistical Methods in Finance 2025</strong>, Chennai Mathematical Institute, Chennai, India.
+</li>
 
-💼 **September 2025** — Completed internship at **CRISIL**, developing an Early Warning System for loan default prediction, Mumbai, India
+<li>
+🎓 <strong>December 2025</strong> — Attended 
+<strong>ACM India Winter School 2025: AI and Finance</strong>, IIIT Hyderabad, Hyderabad, India.
+</li>
+
+<li>
+💼 <strong>September 2025</strong> — Completed internship at 
+<strong>CRISIL</strong>, developing an Early Warning System for loan default prediction, Mumbai, India.
+</li>
+
+</ul>
+
+
 
 </div>
 
