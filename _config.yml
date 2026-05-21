@@ -23,14 +23,14 @@ repository               : "ManishDulal/manishdulal.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar : "profile.png"
-  name : "Manish Dulal"
+  avatar : 
+  name : 
   pronouns :
-  bio : "PhD Scholar at Centre for Machine Intelligence and Data Science, IIT Bombay | Machine Learning | Finance | Graph Neural Networks"
-  location : "Mumbai, India"
-  employer : "Indian Institute of Technology Bombay"
+  bio : 
+  location : 
+  employer : 
   uri :
-  email : ""
+  email : 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
@@ -65,7 +65,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "manish-dulal-552941141"
+  linkedin         : 
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
