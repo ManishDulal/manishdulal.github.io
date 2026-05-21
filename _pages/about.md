@@ -6,17 +6,17 @@ redirect_from:
   - /about.html
 ---
 
-# Manish Dulal
+# Hello, I'm Manish Dulal
 
-PhD Scholar, Centre for Machine Intelligence and Data Science (C-MInDS), IIT Bombay
+I am a PhD student at the Centre for Machine Intelligence and Data Science (C-MInDS), Indian Institute of Technology Bombay.
 
-I work at the intersection of Machine Learning and Finance, with research interests spanning Graph Neural Networks, Financial Machine Learning, Credit Risk Modelling, Climate Risk Analytics, and Data-Driven Decision Systems.
+My research lies at the intersection of Machine Learning and Finance, with interests spanning Graph Neural Networks, Financial Machine Learning, Credit Risk Modelling, Climate Risk Analytics, and Data-Driven Decision Systems.
 
-My current work focuses on applying statistical and machine learning methods to real-world financial problems including credit risk prediction, early warning systems, and graph-based methods for financial networks.
+My current work focuses on applying statistical and machine learning methods to real-world financial problems, including credit risk prediction, early warning systems, and graph-based approaches for financial networks.
 
 I have prior industry and research experience in model validation, risk analysis, and predictive systems for financial applications.
 
-**Guides**
+## Guides
 
 [Prof. M. S. Usha Ananthakumar](https://www.som.iitb.ac.in/prof-ms-usha-ananthakumar/)
 
@@ -32,16 +32,10 @@ Machine Learning • Graph Neural Networks • Financial Machine Learning • Cr
 
 ## Recent News
 
-📢 Presented a contributed talk at Statistical Methods in Finance 2025, Chennai Mathematical Institute
+📢 Presented a contributed talk at **Statistical Methods in Finance 2025**, Chennai Mathematical Institute
 
-🎓 Attended ACM India Winter School 2025: AI and Finance, IIIT Hyderabad
+🎓 Attended **ACM India Winter School 2025: AI and Finance**, IIIT Hyderabad
 
-💼 Completed internship at CRISIL on Early Warning Systems for loan default prediction
+💼 Completed internship at **CRISIL**, developing an Early Warning System for loan default prediction
 
 ---
-
-[📄 CV](/cv/)
-
-[📚 Publications](/publications/)
-
-[💻 Projects](/projects/)
