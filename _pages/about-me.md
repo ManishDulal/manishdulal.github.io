@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 permalink: /about-me/
-author_profile: true
+author_profile: false
 ---
 
 I am currently a PhD Scholar at the Centre for Machine Intelligence and Data Science (C-MInDS), Indian Institute of Technology Bombay.
