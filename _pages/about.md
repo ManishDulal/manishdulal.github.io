@@ -38,6 +38,17 @@ My current work focuses on applying statistical and machine learning methods to 
 Machine Learning • Graph Neural Networks • Financial Machine Learning • Credit Risk Modelling • Climate Risk Analytics • Sports Analytics
 </p>
 
+
+## Recent News
+
+📢 Presented a contributed talk at Statistical Methods in Finance 2025, Chennai Mathematical Institute
+
+🎓 Attended ACM India Winter School 2025: AI and Finance, IIIT Hyderabad
+
+💼 Completed internship at CRISIL on Early Warning Systems for loan default prediction
+
+
+
 </div>
 
 <div style="width:30%;text-align:center;">
