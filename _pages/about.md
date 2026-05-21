@@ -35,7 +35,7 @@ My current work focuses on applying statistical and machine learning methods to 
 <h3>Research Interests</h3>
 
 <p>
-Machine Learning • Graph Neural Networks • Financial Machine Learning • Credit Risk Modelling • Climate Risk Analytics • Sports Analytics
+Machine Learning • Graph Neural Networks • Credit Risk Modelling • Climate Risk Analytics • Sports Analytics
 </p>
 
 
