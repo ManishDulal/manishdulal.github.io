@@ -49,3 +49,12 @@ Chennai Mathematical Institute | Dec 16–20, 2025
 *Data-Driven Early Warning Systems for Loan Default Prediction: Evidence from MSME-Linked Portfolios of a Public Sector Bank in India*
 
 [View Abstract →](https://statfin.cmi.ac.in/2025/abs_manish_dulal.html)
+
+
+📚 Attended **ACM India Winter School 2025: AI and Finance**  
+International Institute of Information Technology Hyderabad (IIIT-H)  
+December 8–13, 2025  
+
+Topics included AI, machine learning and quantitative finance perspectives from academia and industry.
+
+🔗 [Program Details](https://alphagrep.iiit.ac.in/acm-winter-school.html)
