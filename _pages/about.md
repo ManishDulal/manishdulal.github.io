@@ -1,60 +1,41 @@
----
-permalink: /
-title: "Home"
-author_profile: true
----
-
 # Manish Dulal
 
-PhD Scholar at Centre for Machine Intelligence and Data Science (C-MInDS), IIT Bombay.
+PhD Scholar, Centre for Machine Intelligence and Data Science (C-MInDS), IIT Bombay
+
+I work at the intersection of Machine Learning and Finance, with research interests spanning Graph Neural Networks, Financial Machine Learning, Credit Risk Modelling, Climate Risk Analytics, and Data-Driven Decision Systems.
+
+My current work focuses on applying statistical and machine learning methods to real-world financial problems, including credit risk prediction, early warning systems, and graph-based approaches for financial networks.
+
+I have prior industry and research experience in model validation, risk analysis, and predictive systems for financial applications.
+
+**Guides**
+
+[Prof. M. S. Usha Ananthakumar](https://www.som.iitb.ac.in/prof-ms-usha-ananthakumar/)
+
+[Dr. Piyush Pandey](https://www.som.iitb.ac.in/dr-piyush-pandey/)
+
+---
 
 ## Research Interests
 
-- Machine Learning
-- Graph Neural Networks
-- Financial Machine Learning
-- Credit Risk Modelling
-- Climate Risk Analytics
-- Sports Analytics
+Machine Learning • Graph Neural Networks • Financial Machine Learning • Credit Risk Modelling • Climate Risk Analytics • Sports Analytics
 
-## Education
+---
 
-- PhD (Ongoing), IIT Bombay
-- PG Diploma in Statistical Methods and Analytics, ISI Kolkata
-- M.Sc. Mathematics, Gauhati University
-- B.Sc. Mathematics, Gauhati University
+## Recent News
 
-## Experience
+📢 Presented a contributed talk at Statistical Methods in Finance 2025, Chennai Mathematical Institute
 
-### CRISIL Internship
-- Early Warning System for NPA prediction
-- Banking portfolio analytics
+🎓 Attended ACM India Winter School 2025: AI and Finance, IIIT Hyderabad
 
-### Tata Consultancy Services (TCS)
-- Model Validation (Model Risk Management)
-- Wealth Management Team
+💼 Completed internship at CRISIL on Early Warning Systems for loan default prediction
 
-## Current Research
+---
 
-- Graph Neural Networks for Finance
-- Credit Risk Modelling
-- Machine Learning in Financial Systems
+[📄 CV](/cv/)
 
-## Recent Research Activity
+[📚 Publications](/publications/)
 
-📢 **Contributed Talk | Statistical Methods in Finance 2025**  
-Chennai Mathematical Institute | Dec 16–20, 2025  
+[💻 Projects](/projects/)
 
-**Title:**  
-*Data-Driven Early Warning Systems for Loan Default Prediction: Evidence from MSME-Linked Portfolios of a Public Sector Bank in India*
-
-[View Abstract →](https://statfin.cmi.ac.in/2025/abs_manish_dulal.html)
-
-
-📚 Attended **ACM India Winter School 2025: AI and Finance**  
-International Institute of Information Technology Hyderabad (IIIT-H)  
-December 8–13, 2025  
-
-Topics included AI, machine learning and quantitative finance perspectives from academia and industry.
-
-🔗 [Program Details](https://alphagrep.iiit.ac.in/acm-winter-school.html)
+[✉ Contact](/contact/)
