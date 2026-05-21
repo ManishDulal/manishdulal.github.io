@@ -1,4 +1,5 @@
 ---
+title:
 permalink: /
 author_profile: true
 show_title: false
@@ -7,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-# Hello, I'm Manish Dulal
+Hello, I'm Manish Dulal
+=======================
 
 I am a PhD student at the Centre for Machine Intelligence and Data Science (C-MInDS), Indian Institute of Technology Bombay.
 
