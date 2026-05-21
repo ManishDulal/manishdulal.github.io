@@ -15,12 +15,9 @@ I am a PhD student at the Centre for Machine Intelligence and Data Science (C-MI
 </p>
 
 <p>
-My research lies at the intersection of Machine Learning and Finance, with interests spanning Graph Neural Networks, Financial Machine Learning, Credit Risk Modelling, Climate Risk Analytics, and Data-Driven Decision Systems.
+My research lies at the intersection of Machine Learning and Finance, with interests spanning Graph Neural Networks, Credit Risk Modelling, Climate Risk Analytics, and Data-Driven Decision Systems.
 </p>
 
-<p>
-My current work focuses on applying statistical and machine learning methods to real-world financial problems including credit risk prediction, early warning systems, and graph-based approaches for financial networks.
-</p>
 
 <h3>Guides</h3>
 
