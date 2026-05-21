@@ -15,22 +15,26 @@ Prior to beginning my doctoral studies, I worked at Tata Consultancy Services an
 ## Relevant Coursework
 
 ### Spring 2024–25
-- Optimization
-- Linear Systems
-- Time Series Analysis
-- Gender in the Workplace
-- Teaching Assistant Skill Enhancement & Training (TASET)
+
+
+- **IE614** — Linear Systems
+
+- **SC607** — Optimization
+
+- **SI509** — Time Series Analysis
+
 
 ### Autumn 2025–26
-- Statistical Learning Theory
-- Online Learning and Optimisation
-- Communication Skills
+
+- **CS6106** — Statistical Learning Theory
+
+- **EE6106** — Online Learning and Optimisation
 
 ### Spring 2025–26
-- Foundations of Machine Learning
-- Statistical Signal Analysis
-- Seminar
 
+- **CS725** — Foundations of Machine Learning
+  
+- **EE601** — Statistical Signal Analysis
 ---
 
 ## Teaching Assistantships
