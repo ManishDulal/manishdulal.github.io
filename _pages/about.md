@@ -22,6 +22,7 @@ My current work focuses on applying statistical and machine learning methods to 
 ## Guides
 
 [Prof. M. S. Usha Ananthakumar](https://www.som.iitb.ac.in/prof-ms-usha-ananthakumar/)
+
 [Dr. Piyush Pandey](https://www.som.iitb.ac.in/dr-piyush-pandey/)
 
 ---
