@@ -1,15 +1,14 @@
 ---
-title:
+title: ""
+layout: single
 permalink: /
 author_profile: true
 show_title: false
+classes: wide
 redirect_from:
   - /about/
   - /about.html
 ---
-
-Hello, I'm Manish Dulal
-=======================
 
 I am a PhD student at the Centre for Machine Intelligence and Data Science (C-MInDS), Indian Institute of Technology Bombay.
 
@@ -42,5 +41,3 @@ Machine Learning • Graph Neural Networks • Financial Machine Learning • Cr
 🎓 Attended **ACM India Winter School 2025: AI and Finance**, IIIT Hyderabad.
 
 💼 Completed internship at **CRISIL**, developing an Early Warning System for loan default prediction.
-
----
