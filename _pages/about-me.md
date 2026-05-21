@@ -35,6 +35,8 @@ Prior to beginning my doctoral studies, I worked at Tata Consultancy Services an
 - **CS725** — Foundations of Machine Learning
   
 - **EE601** — Statistical Signal Analysis
+
+  
 ---
 
 ## Teaching Assistantships
