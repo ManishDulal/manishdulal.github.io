@@ -1,10 +1,19 @@
+---
+permalink: /
+title: "Home"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
 # Manish Dulal
 
 PhD Scholar, Centre for Machine Intelligence and Data Science (C-MInDS), IIT Bombay
 
 I work at the intersection of Machine Learning and Finance, with research interests spanning Graph Neural Networks, Financial Machine Learning, Credit Risk Modelling, Climate Risk Analytics, and Data-Driven Decision Systems.
 
-My current work focuses on applying statistical and machine learning methods to real-world financial problems, including credit risk prediction, early warning systems, and graph-based approaches for financial networks.
+My current work focuses on applying statistical and machine learning methods to real-world financial problems including credit risk prediction, early warning systems, and graph-based methods for financial networks.
 
 I have prior industry and research experience in model validation, risk analysis, and predictive systems for financial applications.
 
@@ -37,5 +46,3 @@ Machine Learning • Graph Neural Networks • Financial Machine Learning • Cr
 [📚 Publications](/publications/)
 
 [💻 Projects](/projects/)
-
-[✉ Contact](/contact/)
