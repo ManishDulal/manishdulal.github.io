@@ -1,17 +1,10 @@
 ---
-
 permalink: /
-
 author_profile: true
-
 show_title: false
-
 redirect_from:
-
   - /about/
-
   - /about.html
-
 ---
 
 # Hello, I'm Manish Dulal
@@ -23,6 +16,8 @@ My research lies at the intersection of Machine Learning and Finance, with inter
 My current work focuses on applying statistical and machine learning methods to real-world financial problems, including credit risk prediction, early warning systems, and graph-based approaches for financial networks.
 
 I have prior industry and research experience in model validation, risk analysis, and predictive systems for financial applications.
+
+---
 
 ## Guides
 
@@ -40,10 +35,10 @@ Machine Learning • Graph Neural Networks • Financial Machine Learning • Cr
 
 ## Recent News
 
-📢 Presented a contributed talk at **Statistical Methods in Finance 2025**, Chennai Mathematical Institute
+📢 Presented a contributed talk at **Statistical Methods in Finance 2025**, Chennai Mathematical Institute.
 
-🎓 Attended **ACM India Winter School 2025: AI and Finance**, IIIT Hyderabad
+🎓 Attended **ACM India Winter School 2025: AI and Finance**, IIIT Hyderabad.
 
-💼 Completed internship at **CRISIL**, developing an Early Warning System for loan default prediction
+💼 Completed internship at **CRISIL**, developing an Early Warning System for loan default prediction.
 
 ---
