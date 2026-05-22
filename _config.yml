@@ -15,7 +15,7 @@ minimal_mistakes_skin    : "air"
 
 title                    : "Manish Dulal"
 name                     : &name "Manish Dulal"
-description              : &description "PhD Scholar | Machine Learning | Finance | Graph Neural Networks"
+description              : &description "PhD Student | Data Science & AI | IIT Bombay"
 url                      : "https://manishdulal.github.io"
 repository               : "ManishDulal/manishdulal.github.io"
 
@@ -23,63 +23,63 @@ repository               : "ManishDulal/manishdulal.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar : 
-  name : 
+  avatar : ""
+  name : "Manish Dulal"
   pronouns :
-  bio : 
-  location : 
-  employer : 
+  bio : "Pre-PhD Student · Data Science & AI · IIT Bombay"
+  location : "Mumbai, India"
+  employer : "IIT Bombay"
   uri :
-  email : 
-  # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : 
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : 
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : 
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  email : "dulal.manish03@gmail.com"
 
+  # Academic websites
+  academia :
+  arxiv :
+  googlescholar :
+  inspire-hep :
+  impactstory :
+  orcid :
+  semantic :
+  ssrn :
+  pubmed :
+  researchgate :
+  scopus :
+  zotero :
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : 
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  bitbucket :
+  codepen :
+  dribbble :
+  github : "ManishDulal"
+  kaggle :
+  stackoverflow :
 
   # Social media
-  artstation       : # Username
-  bluesky          : 
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : 
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  artstation :
+  bluesky :
+  facebook :
+  flickr :
+  foursquare :
+  goodreads :
+  google_plus :
+  keybase :
+  instagram :
+  lastfm :
+  linkedin : "manish-dulal-552941141"
+  mastodon :
+  medium :
+  pinterest :
+  soundcloud :
+  steam :
+  telegram :
+  tumblr :
+  twitter :
+  vine :
+  weibo :
+  wikipedia :
+  xing :
+  youtube :
+  zhihu :
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -301,7 +301,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: timezone: Asia/Kolkata # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
