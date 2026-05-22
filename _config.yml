@@ -10,8 +10,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 
-site_theme               : "air"
-minimal_mistakes_skin    : "air"
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "air"
 
 title                    : "Manish Dulal"
 name                     : &name "Manish Dulal"
