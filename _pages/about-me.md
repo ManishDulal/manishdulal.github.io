@@ -12,32 +12,50 @@ My academic journey began with Mathematics and later expanded toward Statistics,
 
 Prior to beginning my doctoral studies, I worked at Tata Consultancy Services and completed an internship at CRISIL involving predictive risk systems for banking applications.
 
+
 <div class="section-title">Relevant Coursework</div>
 
-### Spring 2024–25
-- **IE614** — Linear Systems
-- **SC607** — Optimization
-- **SI509** — Time Series Analysis
+<div class="course-card">
 
-### Spring 2025–26
-- **CS725** — Foundations of Machine Learning
-- **EE601** — Statistical Signal Analysis
+<h4>Spring 2024–25</h4>
 
-### Autumn 2025–26
-- **CS6106** — Statistical Learning Theory
-- **EE6106** — Online Learning and Optimisation
+<strong>IE614</strong> — Linear Systems <br>
+<strong>SC607</strong> — Optimization <br>
+<strong>SI509</strong> — Time Series Analysis
+
+
+<h4>Spring 2025–26</h4>
+
+<strong>CS725</strong> — Foundations of Machine Learning <br>
+<strong>EE601</strong> — Statistical Signal Analysis
+
+
+<h4>Autumn 2025–26</h4>
+
+<strong>CS6106</strong> — Statistical Learning Theory <br>
+<strong>EE6106</strong> — Online Learning and Optimisation
+
+</div>
+
 
 <div class="section-title">Teaching Assistantships</div>
 
-### IIT Bombay
+<div class="ta-block">
 
-**DS-203 — Programming for Data Science**  
-Teaching Assistant, Spring 2025–26
+<h4>IIT Bombay</h4>
 
-### e-PG Diploma in AI and Data Science, IIT Bombay
-
-**Statistical Foundations of Machine Learning**  
+<strong>DS-203 — Programming for Data Science</strong><br>
 Teaching Assistant | Spring 2025–26
 
-**Machine Learning for Finance**  
+
+<h4>e-PG Diploma in AI and Data Science, IIT Bombay</h4>
+
+<strong>Statistical Foundations of Machine Learning</strong><br>
+Teaching Assistant | Spring 2025–26
+
+<br>
+
+<strong>Machine Learning for Finance</strong><br>
 Head Teaching Assistant | Autumn 2025–26
+
+</div>
