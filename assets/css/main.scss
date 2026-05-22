@@ -1,43 +1,199 @@
 ---
 ---
 
-/*
- * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
- */
+@import "minimal-mistakes";
 
-@import
-    "vendor/breakpoint/breakpoint",
+/* ===== COLORS ===== */
 
-    "themes",
-    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+:root{
+--navy:#1A2B4A;
+--teal:#0D7C8F;
+--gold:#C9922A;
+--grey:#6B7280;
+--light:#F5F5F5;
+--white:#FFFFFF;
+}
 
-    "include/mixins",
-    "vendor/susy/susy",
+/* ===== PAGE ===== */
 
-    "layout/reset",
-    "layout/base",
+body{
+font-family:-apple-system,BlinkMacSystemFont,sans-serif;
+background:#FAFAFA;
+}
 
-    "include/utilities",
-    "layout/tables",
-    "layout/buttons",
-    "layout/notices",
-    "layout/masthead",
-    "layout/navigation",
-    "layout/footer",
-    "syntax",
 
-    "layout/forms",
+/* ===== NAVIGATION ===== */
 
-    "layout/page",
-    "layout/archive",
-    "layout/sidebar",
-    "layout/json_cv",
+.greedy-nav{
+background:var(--navy)!important;
+}
 
-    "vendor/font-awesome/fontawesome",
-    "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands"
-;
+.greedy-nav a{
+color:white!important;
+}
+
+.site-title{
+color:white!important;
+font-weight:700;
+}
+
+
+/* ===== HERO ===== */
+
+.hero-section{
+
+background:var(--navy);
+padding:40px;
+border-radius:12px;
+margin-bottom:40px;
+
+display:flex;
+justify-content:space-between;
+align-items:center;
+gap:50px;
+
+color:white;
+
+}
+
+.hero-name{
+
+font-size:2.4rem;
+color:white!important;
+margin-bottom:10px;
+border:none!important;
+}
+
+.hero-tagline{
+
+font-size:1rem;
+color:#CCDDE8;
+margin-bottom:10px;
+}
+
+.hero-affil{
+
+color:#CCDDE8;
+margin-bottom:20px;
+}
+
+.hero-image img{
+
+width:180px;
+height:180px;
+
+border-radius:50%;
+object-fit:cover;
+
+border:4px solid var(--teal);
+
+}
+
+
+/* ===== BUTTONS ===== */
+
+.hero-btns{
+
+display:flex;
+gap:15px;
+}
+
+.btn-primary{
+
+padding:10px 20px;
+background:var(--teal);
+color:white!important;
+border-radius:8px;
+text-decoration:none!important;
+font-weight:600;
+}
+
+.btn-secondary{
+
+padding:10px 20px;
+
+border:1px solid white;
+
+color:white!important;
+
+border-radius:8px;
+
+text-decoration:none!important;
+}
+
+
+/* ===== CARDS ===== */
+
+.highlight-cards{
+
+display:grid;
+
+grid-template-columns:repeat(3,1fr);
+
+gap:20px;
+
+margin-bottom:40px;
+
+}
+
+.highlight-card{
+
+background:white;
+
+padding:20px;
+
+border-radius:10px;
+
+border-top:4px solid var(--teal);
+
+box-shadow:0 4px 12px rgba(0,0,0,.08);
+
+}
+
+
+/* ===== NEWS ===== */
+
+.news-item{
+
+display:flex;
+
+gap:20px;
+
+padding:15px 0;
+
+border-bottom:1px solid #e0e0e0;
+
+}
+
+.news-date{
+
+font-weight:700;
+
+color:var(--gold);
+
+min-width:90px;
+}
+
+
+/* ===== MOBILE ===== */
+
+@media(max-width:768px){
+
+.hero-section{
+
+flex-direction:column-reverse;
+
+text-align:center;
+}
+
+.highlight-cards{
+
+grid-template-columns:1fr;
+}
+
+.hero-btns{
+
+justify-content:center;
+}
+
+}
