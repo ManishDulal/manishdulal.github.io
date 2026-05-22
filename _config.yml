@@ -16,8 +16,8 @@ minimal_mistakes_skin: "air"
 masthead_title: "Manish Dulal"
 
 title: "Manish Dulal"
-name: &name "Manish Dulal"
-description: &description "PhD Student | Data Science & AI | IIT Bombay"
+name: "Manish Dulal"
+description: "PhD Student | Data Science & AI | IIT Bombay"
 url: "https://manishdulal.github.io"
 repository: "ManishDulal/manishdulal.github.io"
 
