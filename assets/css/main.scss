@@ -40,16 +40,6 @@ color:white!important;
 font-weight:700;
 }
 
-/* Hide hamburger icon */
-.greedy-nav__toggle{
-display:none !important;
-}
-
-/* Force navigation items to stay visible */
-.visible-links{
-display:flex !important;
-flex-wrap:wrap;
-}
 
 /* Navigation hover */
 .greedy-nav a:hover{
