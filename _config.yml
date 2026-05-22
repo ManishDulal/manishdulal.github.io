@@ -23,14 +23,15 @@ repository               : "ManishDulal/manishdulal.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar : ""
-  name : "Manish Dulal"
-  pronouns :
-  bio : "Pre-PhD Student · Data Science & AI · IIT Bombay"
-  location : "Mumbai, India"
-  employer : "IIT Bombay"
-  uri :
-  email : "dulal.manish03@gmail.com"
+  avatar: "images/profile.png"
+  name: "Manish Dulal"
+  bio: "Pre-PhD Student · Data Science & AI · IIT Bombay"
+  location: "Mumbai, India"
+  employer: "IIT Bombay"
+  email: "dulal.manish03@gmail.com"
+
+  github: "ManishDulal"
+  linkedin: "manish-dulal-552941141"
 
   # Academic websites
   academia :
@@ -147,9 +148,9 @@ og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type: "Person"
+  name: "Manish Dulal"
+  links: []
 
 
 # Analytics
