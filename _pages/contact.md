@@ -4,7 +4,6 @@ permalink: /contact/
 author_profile: false
 ---
 
-
 ### Email
 📧 manishdulal@iitb.ac.in
 
