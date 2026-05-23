@@ -440,16 +440,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/al-folio/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/al-folio/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-received-the-best-paper-presentation-award-at-the-national-symposium-on-ai-innovation-in-bfsi-services-organized-by-iit-bombay-and-sjmsom-funded-by-the-optiver-ai-innovation-lab",
+          title: 'Received the Best Paper Presentation Award at the National Symposium on AI Innovation...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
