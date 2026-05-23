@@ -12,7 +12,7 @@ profile:
   image_circular: false
 
 more_info: |
-  <div style="font-size:0.82em; margin-top:10px;">
+  <div style="font-size: 0.82em; margin-top: 10px;">
     SIC-401, 4th Floor, Kanwal Rekhi (KReSIT) Building<br>
     Centre for Machine Intelligence and Data Science<br>
     Indian Institute of Technology Bombay<br>
