@@ -11,11 +11,15 @@ profile:
   image: prof_pic.jpg
   image_circular: false
 
-more_info: |
-  SIC-401, 4th Floor, Kanwal Rekhi (KReSIT) Building
-  Centre for Machine Intelligence and Data Science
-  Indian Institute of Technology Bombay
-  Powai, Mumbai – 400076, India
+more_info: >
+
+    <p>SIC-401, 4th Floor, Kanwal Rekhi (KReSIT) Building</p>
+
+    <p>Centre for Machine Intelligence and Data Science</p>
+
+    <p>Indian Institute of Technology Bombay</p>
+
+    <p>Powai, Mumbai – 400076, India</p>
 
 selected_papers: false
 social: true
