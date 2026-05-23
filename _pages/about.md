@@ -11,6 +11,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false
 
+  more_info: |
+    <small>Office: SIC-401, KReSIT Building, IIT Bombay</small>
+
 selected_papers: false
 social: true
 
@@ -37,8 +40,4 @@ Outside research, I enjoy long-distance running, watching football in stadiums, 
 
 <br>
 
-## Office
 
-SIC-401, 4th Floor, Kanwal Rekhi (KReSIT) Building  
-Centre for Machine Intelligence and Data Science (CMInDS), Indian Institute of Technology Bombay  
-Powai, Mumbai – 400076, India
