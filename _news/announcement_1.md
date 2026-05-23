@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-05-23
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement.
+Received the **Best Paper Presentation Award** at the *National Symposium on AI Innovation in BFSI Services*, organized by IIT Bombay and SJMSOM, funded by the Optiver AI Innovation Lab.
