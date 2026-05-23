@@ -440,10 +440,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/al-folio/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-delivered-a-contributed-talk-at-statistical-methods-in-finance-2025-held-at-chennai-mathematical-institute-chennai",
+            },},{id: "news-delivered-a-contributed-talk-at-statistical-methods-in-finance-2025-held-at-chennai-mathematical-institute-chennai",
           title: 'Delivered a contributed talk at Statistical Methods in Finance 2025 held at Chennai...',
           description: "",
           section: "News",},{id: "news-received-the-best-paper-presentation-award-at-the-national-symposium-on-ai-innovation-in-bfsi-services-organized-by-iit-bombay-and-sjmsom-funded-by-the-optiver-ai-innovation-lab",
