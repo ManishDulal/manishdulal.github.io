@@ -11,17 +11,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
 
-  more_info: 
-
 selected_papers: false
-
-## Office
-
-SIC-401, 4th Floor, Kanwal Rekhi (KReSIT) Building  
-Centre for Machine Intelligence and Data Science (CMInDS), Indian Institute of Technology Bombay  
-Powai, Mumbai – 400076, India
-
-
 social: true
 
 announcements:
@@ -44,3 +34,11 @@ Before joining IIT Bombay, I worked as a Business Analyst at Tata Consultancy Se
 <br>
 
 Outside research, I enjoy long-distance running, watching football in stadiums, travelling, and playing GeoGuessr.
+
+<br>
+
+## Office
+
+SIC-401, 4th Floor, Kanwal Rekhi (KReSIT) Building  
+Centre for Machine Intelligence and Data Science (CMInDS), Indian Institute of Technology Bombay  
+Powai, Mumbai – 400076, India
