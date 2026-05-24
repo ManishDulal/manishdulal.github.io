@@ -65,40 +65,30 @@ layout: default
     {% endif %}
 
 <!-- Social -->
-
 {% if page.social %}
-
   <div class="social">
+    <div class="contact-icons">
+      {% social_links %}
+    </div>
 
-    <div class="contact-icons">{% social_links %}</div>
-
-    <div class="contact-note">{{ site.contact_note }}</div>
-
+    <div class="contact-note">
+      {{ site.contact_note }}
+    </div>
   </div>
-
 {% endif %}
 
 <!-- Visitors Map -->
-
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
-
   <a href="https://mapmyvisitors.com/web/1c4pg" title="Visit tracker">
-
     <img
-
-      src="https://mapmyvisitors.com/map.png?d=KTzPR7yAwH_B0ERY_XUlWYmL2buz1MhOc6WOUKp_ukg&cl=ffffff&w=a"
-
+      src="https://mapmyvisitors.com/map.png?d=KTzPR7yAwH_B0ERY_XUlWYmL2buz1MhOc6WOUKp_ukg&cl=ffffff"
       style="width:250px; border-radius:6px;"
-
     >
-
   </a>
-
 </div>
 
-    {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
-      {% include newsletter.liquid center=true %}
-    {% endif %}
-  </article>
+{% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
+  {% include newsletter.liquid center=true %}
+{% endif %}
+</article>
 </div>
-
