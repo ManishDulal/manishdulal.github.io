@@ -51,8 +51,8 @@ My broad research interest is in understanding how machine learning methods — 
 | IE 614 | Linear Systems |
 | SC 607 | Optimization |
 | SI 509 | Time Series Analysis |
-| GC 101 | Gender in the Workplace |
-| TA 101 | Teaching Assistant Skill Enhancement & Training (TASET) |
+
+
 
 ---
 
@@ -72,14 +72,16 @@ My broad research interest is in understanding how machine learning methods — 
 |-------------|---------|
 | CS6106 | Statistical Learning Theory |
 | EE6106 | Online Learning and Optimisation |
-| DS899 | Communication Skills |
+
 
 ## Teaching Experience
 
 | Semester | Course | Role |
 |-----------|---------|------|
-| Spring 2025–26 | Machine Learning for Finance | Head Teaching Assistant |
-| Autumn 2025–26 | Statistical Foundations of Machine Learning | Teaching Assistant |
+| Autumn 2025–26 | DS203 - Programming for Data Science | Teaching Assistant |
+| Autumn 2025–26 | Statistical Foundations of Machine Learning ([ePGD in AI & DS](https://www.minds.iitb.ac.in/academic-details/e-pg-diploma-in-ai-and-ds)) | Teaching Assistant |
+| Spring 2025–26 | Machine Learning for Finance ([ePGD in AI & DS](https://www.minds.iitb.ac.in/academic-details/e-pg-diploma-in-ai-and-ds)) | Head Teaching Assistant |
+
 
 
 
@@ -93,7 +95,7 @@ I have participated in several workshops and academic schools that have contribu
 
 | Year | Event | Venue |
 |------|-------|-------|
+| Dec 2025 | [Statistical Methods in Finance 2025 *(oral presentation)*](https://statfin.cmi.ac.in/2025/abs_manish_dulal.html) | Chennai Mathematical Institute, Chennai |
 | Dec 2025 | [ACM Winter School](https://alphagrep.iiit.ac.in/acm-winter-school.html) | IIIT Hyderabad, Hyderabad |
 | Jul 2025 | [Joint Telematics Group Summer School on Signal Processing, Communications and Networks](https://www.ee.iitb.ac.in/~jtg2025/) | IIT Bombay, Mumbai |
-| Jan 2025 | [Statistical Methods in Finance 2025 *(oral presentation)*](https://statfin.cmi.ac.in/2025/abs_manish_dulal.html) | Chennai Mathematical Institute, Chennai |
 | Jan 2018 | [Winter School on Mathematics](https://www.isine.ac.in/old_web/html/Gallery/event27.html) | ISI North East Centre, Tezpur |
