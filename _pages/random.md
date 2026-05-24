@@ -10,17 +10,17 @@ show_title: false
 
 <style>
 .post{
-    padding-top:1cm;
+    padding-top:0.5cm;
     padding-bottom:1.5cm;
 }
 
 h2{
-    margin-top:2cm;
-    margin-bottom:1cm;
+    margin-top:1.5cm;
+    margin-bottom:0.5cm;
 }
 
 h2:first-of-type{
-    margin-top:0.2cm;
+    margin-top:0cm;
 }
 </style>
 
