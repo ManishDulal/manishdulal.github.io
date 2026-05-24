@@ -28,9 +28,20 @@ h2:first-of-type{
 
 Football has been a constant part of my life since my university days. I have been a member of the **Highlander Brigade** — the official supporters club of **NorthEast United FC** — since 2018. Those years involved regular trips to the **Indira Gandhi Athletic Stadium (Sarusajai), Guwahati**, matchday experiences, chanting sessions, supporting the club, and participating in banner-making activities. I have also travelled to other stadiums to support the team and attend matches.
 
-Beyond club football, I follow **Atlético Madrid** in La Liga and **Manchester United** in the Premier League. My favourite player is **Antoine Griezmann**.
 
-*Photos from matchdays and away trips will be added here.*
+
+<div style="text-align:center; margin-top:1cm;">
+
+<img src="/assets/img/IMG_2473.HEIC" width="750">
+
+<p><i>
+With fellow members of Highlander Brigade at Kishore Bharati Krirangan, Kolkata, supporting NorthEast United FC during an away matchday.
+</i></p>
+
+</div>
+
+
+Beyond Indian football, I follow **Atlético Madrid** in La Liga and **Manchester United** in the Premier League. My favourite player is **Antoine Griezmann**.
 
 ## Running
 
