@@ -89,12 +89,11 @@ I qualified the GATE Statistics examination (2024) and IIT JAM Mathematical Stat
 
 ## Workshops and schools
 
-I have participated in several workshops and academic schools that have shaped my research perspective:
-
+I have participated in several workshops and academic schools that have contributed to shaping my research interests and perspective.
 
 | Year | Event | Venue |
 |------|-------|-------|
-| Dec 2025 | [ACM Winter School](https://alphagrep.iiit.ac.in/acm-winter-school.html) | IIIT Hyderabad |
-| Jul 2025 | Joint Telematics Group Summer School on Signal Processing, Communications and Networks | IIT Bombay |
-| Jan 2025 | Statistical Methods in Finance 2025 *(oral presentation)* | Chennai Mathematical Institute |
-| Jan 2018 | Winter School on Mathematics | ISI North East Centre, Tezpur |
+| Dec 2025 | [ACM Winter School](https://alphagrep.iiit.ac.in/acm-winter-school.html) | IIIT Hyderabad, Hyderabad |
+| Jul 2025 | [Joint Telematics Group Summer School on Signal Processing, Communications and Networks](https://www.ee.iitb.ac.in/~jtg2025/) | IIT Bombay, Mumbai |
+| Jan 2025 | [Statistical Methods in Finance 2025 *(oral presentation)*](https://statfin.cmi.ac.in/2025/abs_manish_dulal.html) | Chennai Mathematical Institute, Chennai |
+| Jan 2018 | [Winter School on Mathematics](https://www.isine.ac.in/old_web/html/Gallery/event27.html) | ISI North East Centre, Tezpur |
