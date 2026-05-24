@@ -5,6 +5,7 @@ permalink: /random/
 nav: true
 nav_order: 6
 description: Things I care about outside research.
+show_title: false
 ---
 
 <style>
