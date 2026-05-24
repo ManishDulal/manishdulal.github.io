@@ -9,17 +9,17 @@ description: Things I care about outside research.
 
 <style>
 .post{
-    padding-top:0.8cm;
-    padding-bottom:1cm;
+    padding-top:1cm;
+    padding-bottom:1.5cm;
 }
 
 h2{
-    margin-top:1.5cm;
-    margin-bottom:0.6cm;
+    margin-top:2cm;
+    margin-bottom:1cm;
 }
 
 h2:first-of-type{
-    margin-top:0cm;
+    margin-top:0.2cm;
 }
 </style>
 
@@ -42,10 +42,7 @@ I completed my first half marathon at the **IIT Bombay Half Marathon 2025**.
 | Distance | 21.1 km |
 | Chip Time | 1:53:44 |
 | Overall Rank | 88 / 901 |
-| Gender Rank | 83 / 798 |
-| Category Rank (26–35 Male) | 25 / 203 |
 
-*Photos and race statistics will be added here.*
 
 ## GeoGuessr and Maps
 
