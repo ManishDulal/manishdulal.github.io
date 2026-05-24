@@ -1,28 +1,4 @@
 name: Prettier code formatter
 
 on:
-  pull_request:
-    branches:
-      - master
-      - main
-  push:
-    branches:
-      - master
-      - main
-
-jobs:
-  check:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout 🛎️
-        uses: actions/checkout@v4
-
-      - name: Setup Node.js ⚙️
-        uses: actions/setup-node@v4
-
-      - name: Install Prettier 💾
-        run: npm install --save-dev --save-exact prettier @shopify/prettier-plugin-liquid
-
-      - name: Auto Fix Formatting 🔧
-        run: npx prettier . --write
+  workflow_dispatch:
