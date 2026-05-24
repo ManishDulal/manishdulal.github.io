@@ -95,7 +95,7 @@ I have participated in several workshops and academic schools that have contribu
 
 | Year | Event | Venue |
 |------|-------|-------|
-| Dec 2025 | [Statistical Methods in Finance 2025 *(oral presentation)*](https://statfin.cmi.ac.in/2025/abs_manish_dulal.html) | Chennai Mathematical Institute, Chennai |
-| Dec 2025 | [ACM Winter School](https://alphagrep.iiit.ac.in/acm-winter-school.html) | IIIT Hyderabad, Hyderabad |
-| Jul 2025 | [Joint Telematics Group Summer School on Signal Processing, Communications and Networks](https://www.ee.iitb.ac.in/~jtg2025/) | IIT Bombay, Mumbai |
-| Jan 2018 | [Winter School on Mathematics](https://www.isine.ac.in/old_web/html/Gallery/event27.html) | ISI North East Centre, Tezpur |
+| Dec&nbsp;2025 | [ACM Winter School](https://alphagrep.iiit.ac.in/acm-winter-school.html) | IIIT Hyderabad, Hyderabad |
+| Jul&nbsp;2025 | [Joint Telematics Group Summer School on Signal Processing, Communications and Networks](https://www.ee.iitb.ac.in/~jtg2025/) | IIT Bombay, Mumbai |
+| Jan&nbsp;2025 | [Statistical Methods in Finance 2025 *(oral presentation)*](https://statfin.cmi.ac.in/2025/abs_manish_dulal.html) | Chennai Mathematical Institute, Chennai |
+| Jan&nbsp;2018 | [Winter School on Mathematics](https://www.isine.ac.in/old_web/html/Gallery/event27.html) | ISI North East Centre, Tezpur |
