@@ -63,7 +63,7 @@ I enjoy travelling and exploring new places, cultures, landscapes, and experienc
 
 <div style="text-align:center; margin-top:1cm;">
 
-<img src="/assets/img/Sikkim1.jpg" width="750">
+<img src="/assets/img/sikkim1.jpg" width="750">
 
 <p><i>
 Travelling through Sikkim.
