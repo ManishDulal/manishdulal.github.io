@@ -56,12 +56,35 @@ I completed my first half marathon at the **IIT Bombay Half Marathon 2025**.
 | Overall Rank | 88 / 901 |
 
 
-## GeoGuessr and Maps
-
-I enjoy playing **GeoGuessr** and spending time exploring maps and places around the world. I find it fascinating how geography, landscapes, and small visual details can reveal information about a location.
 
 ## Travel
 
-I enjoy travelling and exploring new places, cultures, and experiences.
+I enjoy travelling and exploring new places, cultures, landscapes, and experiences. Travelling gives me an opportunity to step away from research for a while and experience different places and perspectives.
 
-*Travel photos and memories will be added here.*
+<div style="text-align:center; margin-top:1cm;">
+
+<img src="/assets/img/Sikkim1.jpg" width="750">
+
+<p><i>
+Travelling through Sikkim.
+</i></p>
+
+</div>
+
+<br>
+
+<div style="text-align:center; margin-top:1cm;">
+
+<img src="/assets/img/Sikkim2.jpg" width="750">
+
+<p><i>
+Another moment from my trip to Sikkim.
+</i></p>
+
+</div>
+
+
+
+## GeoGuessr and Maps
+
+I enjoy playing **GeoGuessr** and spending time exploring maps and places around the world. I find it fascinating how geography, landscapes, and small visual details can reveal information about a location.
