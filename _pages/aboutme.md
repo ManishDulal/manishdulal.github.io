@@ -4,7 +4,36 @@ title: about me
 permalink: /about/
 nav: true
 nav_order: 1
+show_title: false
 ---
+
+<style>
+
+.post{
+
+    padding-top:0.5cm;
+
+    padding-bottom:1.5cm;
+
+}
+
+h2{
+
+    margin-top:1.5cm;
+
+    margin-bottom:0.5cm;
+
+}
+
+h2:first-of-type{
+
+    margin-top:0cm;
+
+}
+
+</style>
+
+
 
 ## PhD at IIT Bombay
 
