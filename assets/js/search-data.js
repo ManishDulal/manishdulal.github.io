@@ -30,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
+        },{id: "nav-",
+          title: "",
           description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
           section: "Navigation",
           handler: () => {
@@ -44,8 +44,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-random",
-          title: "random",
+        },{id: "nav-",
+          title: "",
           description: "Things I care about outside research.",
           section: "Navigation",
           handler: () => {
