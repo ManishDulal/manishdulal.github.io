@@ -38,8 +38,8 @@ ninja.data = [{
             window.location.href = "/repositories/";
           },
         },{id: "nav-random",
-          title: "Random",
-          description: "",
+          title: "random",
+          description: "Things I care about outside research.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/random/";
