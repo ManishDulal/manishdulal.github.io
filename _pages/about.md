@@ -1,9 +1,8 @@
 ---
 layout: about
-title: About Me
+title:
 permalink: /
-nav: true
-nav_order: 1
+nav: false
 
 subtitle: PhD Scholar | Centre for Machine Intelligence and Data Science, Indian Institute of Technology Bombay
 
