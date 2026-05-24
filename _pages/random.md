@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: random
 permalink: /random/
 nav: true
 nav_order: 6
