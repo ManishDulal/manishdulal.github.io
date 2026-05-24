@@ -44,11 +44,15 @@ Outside research, I enjoy long-distance running, watching football in stadiums, 
 <br>
 
 
-## Visitors
+<br><br>
 
-<div style="text-align:center;">
-<script type="text/javascript"
-id="mapmyvisitors"
-src="//mapmyvisitors.com/map.js?d=KTzPR7yAwH_B0ERY_XUlWYmL2buz1MhOc6WOUKp_ukg&cl=ffffff&w=a">
-</script>
+<div style="text-align:center; margin-top:50px;">
+  <h4>Visitors</h4>
+
+  <div style="width:250px; margin:auto;">
+    <a href="https://mapmyvisitors.com/web/1c4pg" title="Visit tracker">
+      <img src="https://mapmyvisitors.com/map.png?d=KTzPR7yAwH_B0ERY_XUlWYmL2buz1MhOc6WOUKp_ukg&cl=ffffff"
+      style="width:100%;">
+    </a>
+  </div>
 </div>
