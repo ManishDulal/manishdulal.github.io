@@ -32,7 +32,7 @@ Football has been a constant part of my life since my university days. I have be
 
 <div style="text-align:center; margin-top:1cm;">
 
-<img src="/assets/img/IMG_2473.jpg" width="750">
+<img src="/assets/img/IMG_2473 2.jpg" width="750">
 
 <p><i>
 With fellow members of Highlander Brigade at Kishore Bharati Krirangan, Kolkata, supporting NorthEast United FC during an away matchday.
