@@ -71,17 +71,7 @@ Travelling through Sikkim.
 
 </div>
 
-<br>
 
-<div style="text-align:center; margin-top:1cm;">
-
-<img src="/assets/img/Sikkim2.jpg" width="750">
-
-<p><i>
-    Altitude: impressive. Planning: less so.
-</i></p>
-
-</div>
 
 
 
