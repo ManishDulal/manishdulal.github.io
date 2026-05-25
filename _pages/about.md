@@ -8,7 +8,7 @@ subtitle: PhD Scholar | Centre for Machine Intelligence and Data Science, Indian
 
 profile:
   align: right
-  image: IMG_0505.jpg
+  image: IMG_0505 2.jpg
   image_circular: false
 
   more_info: |
